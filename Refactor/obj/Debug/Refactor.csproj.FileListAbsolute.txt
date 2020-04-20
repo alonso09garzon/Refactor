@@ -1,0 +1,6 @@
+C:\Refactor\Refactor\bin\Debug\Refactor.exe.config
+C:\Refactor\Refactor\bin\Debug\Refactor.exe
+C:\Refactor\Refactor\bin\Debug\Refactor.pdb
+C:\Refactor\Refactor\obj\Debug\Refactor.csprojResolveAssemblyReference.cache
+C:\Refactor\Refactor\obj\Debug\Refactor.exe
+C:\Refactor\Refactor\obj\Debug\Refactor.pdb
